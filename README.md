@@ -1,2 +1,2 @@
-# preparation
-国赛杯赛资料
+# Preparation
+国赛备赛资料
